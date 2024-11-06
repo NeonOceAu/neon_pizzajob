@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/NeonOceAu/neon_pizzajob/total?color=blue&style=flat-square)
+
 # neon_pizzajob
 
 A FiveM job script for a pizza delivery role, seamlessly integrated with Ox Lib and compatible with both ESX and QBCore frameworks. Players can take on the role of a pizza delivery driver, continuously delivering pizzas across the city until they choose to stop.
